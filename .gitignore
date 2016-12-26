@@ -1,5 +1,1 @@
-*.lock
-.idea/
-
-build/*
-*.xml
+/.idea/*
